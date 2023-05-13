@@ -4,9 +4,12 @@
 ------------------------------------------XXXXXXXXXX------------------------------------------XXXXXXXXXX---------------------------
 
 Technical Task
+
 ● Imagine you are working as a Data Scientist for an Online Wine Shop named “The Wine Land” (Dream come true??).
-● As the name suggests, the online store specializes in selling different varieties of wines. ● Wines and its allied activities are niches. Having said that, the online store receives a decent amount of traffic and reviews from its users.
+● As the name suggests, the online store specializes in selling different varieties of wines.
+● Wines and its allied activities are niches. Having said that, the online store receives a decent amount of traffic and reviews from its users.
 ● Your boss is hoping to leverage the “reviews” data and draw actionable insights from it.
+
 What is Expected?
 ● The directives from your boss are -
 ○ To derive the top 5 actionable Insights from the Data.
