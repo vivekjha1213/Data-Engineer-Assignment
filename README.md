@@ -1,8 +1,7 @@
 # Data-Engineer-Assignment
 
 
-------------------------------------------XXXXXXXXXX------------------------------------------XXXXXXXXXX---------------------------------------------
-
+------------------------------------------XXXXXXXXXX------------------------------------------XXXXXXXXXX------------------------------
 
 Technical Task
 ● Imagine you are working as a Data Scientist for an Online Wine Shop named “The Wine Land” (Dream come true??).
@@ -35,7 +34,7 @@ About the Dataset -
 ○ winery - The winery that made the wine
 ○ variety - The type of grapes used to make the wine. Dependent variable for task 2 of the assignment.
 
-------------------------------------------XXXXXXXXXX------------------------------------------XXXXXXXXXX---------------------------------------------
+------------------------------------------XXXXXXXXXX------------------------------------------XXXXXXXXXX----------------------------
 
 
 To run a Flask app, you can follow these general steps:
